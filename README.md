@@ -1,2 +1,2 @@
 # programming-test
-To-do list
+Write a web app to manage a To-do list
